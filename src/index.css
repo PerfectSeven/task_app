@@ -1,0 +1,234 @@
+*{
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar{
+  top: 0;
+  margin: 0;
+  height: 70px;
+  width: 100%;
+  background-color: #6e6ef7cb;
+  
+}
+
+.date{
+  padding: 10px;
+  margin-top: 5px;
+  font-size: 2.8rem;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #0a0101;
+  text-shadow: 2px 2px 2px 2px black;
+}
+
+
+.greeting-page{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 25px;
+}
+
+.greetings{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 5rem;
+  margin-left: 20px
+}
+.todo-page-button{
+  height: 70px;
+  width: 150px;
+  background-color: #ffc400;
+  font-size: 1.3rem;
+  border: none;
+  border-radius: 10px;
+  margin: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 2px 2px 4px #000000b4
+}
+.task-page{
+  height: 800px;
+  background-color: #d8eff3;
+  display: flex;
+  gap: 3rem;
+}
+
+.bar-sec{
+  margin-top: 45px;
+  height: 100vh;
+  width: 50px;
+  margin-left: 10px;
+  
+}
+.side-bar{
+  width: 30px;
+ padding: 10px;
+ 
+}
+.side-bar li{
+  width: 120px;
+ padding-bottom: 20px
+
+}
+.nav-links a{
+  text-decoration: none;
+  color: black;
+  font-size: 1.2rem;
+  padding-bottom: 10px;
+text-align: center;
+}
+
+.nav-links a.active-link {
+  color: #14268a;
+  border-left: 4px solid #14268a;
+  text-shadow: 1px 0 1px 0 #14268a;
+}
+
+.progress-bar-wrap {
+  width: 100%;
+  height: 10px;
+  background-color: #eee;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 10px 0;
+}
+
+.progress-bar-fill {
+  height: 100%;
+ 
+  transition: width 0.5s ease-in-out;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.user-block {
+  
+  height: auto;
+  min-height: 670px;
+  max-height: none;
+  width: 260px;
+  overflow: visible;
+  padding: 20px;
+  border: 1px solid #ccc;
+  margin-bottom: 30px;
+   margin-left: 5px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.todo-container{
+ display: flex;
+ height: 100vh;
+  width: 100vw;
+}
+.profile{
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.id-badge{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+  border-radius: 50px;
+  padding: 15px;
+  color:white
+}
+.congrats-msg{
+  font-weight: bold;
+}
+.time-btns{
+  display: flex;
+  gap: 10px;
+  margin-top: 5px;
+
+}
+hr{
+  margin-top: 20px;
+}
+.time-btns > button{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  padding: 5px;
+  height: 30px;
+  width: 100px;
+cursor: pointer;
+ border-radius: 20px;
+ border: none;
+ box-shadow: 1px 1px 1px 1px black;
+}
+.time-btns > button:hover{
+  border:1px solid #2a2a30;
+  transition: 0.5s ease-in-out;
+}
+
+.task-list{
+  margin-top: 10px;
+  transition: all 0.3s ease;
+}
+.time-btns > button.active{
+  background-color: #af9999;
+}
+.tasksid{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1.2rem;
+width: 100%;
+display: flex;
+box-sizing: border-box;
+align-items: center;
+padding: 6px 0;
+}
+
+input[type="checkbox"]{
+  width: 26px;
+  height: 25px;
+  border-radius: 20%;
+  visibility: visible;
+  opacity: 1;
+  margin-left: auto;
+
+}
+.user-bg-0{
+  background-color: pink;}
+
+.user-bg-1{
+  background-color: #eef09f;
+}
+.user-bg-2{
+  background-color: #b0a9eb
+}
+.user-bg-3{
+  background-color: #a5eebb;
+}
+
+.rewards-page{
+  height: 100vh;
+  background-color: #dedde9;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.rewards-container{
+  margin-top: -100px;
+  text-align: center;
+}
+.rewards-container h1{
+  font-size: 3rem
+}
+.reward-card{
+  display: flex;
+  justify-content: space-evenly;
+  align-items:center;
+  padding: 20px;
+  margin-top: 20px;
+ margin-left: 130px;
+}
+
+.reward-card p{
+  font-weight: bold;
+  font-size: 1.2rem;
+}

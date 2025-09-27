@@ -1,0 +1,171 @@
+[
+  {
+    "user": "Andre",
+    "name": "Andre",
+    "tasks": {
+      "morning": [
+        {"name": "Say your prayers", "completed":false},
+        {"name": "Say good morning", "completed": false},
+        { "name": "Brush teeth", "completed": false },
+        { "name": "Stretch", "completed": false },
+        {"name": "Make the bed", "completed": false},
+        {"name": "Tidy bedroom", "completed":false},
+        {"name": "Bath", "completed": false},
+        {"name": "Dress up", "completed":false},
+        {"name": "Brush hair", "completed":false},
+        {"name": "Eat breakfast", "completed":false},
+        {"name": "Clean up breakfast", "completed":false},
+        {"name": "Homework check", "completed":false},
+        {"name": "Say goodbye to Mom and Dad", "completed":false}
+      ],
+      "afternoon": [
+        {"name": "Say good afternoon", "completed":false},
+        {"name": "Dress into home clothes", "completed":false},
+        {"name": "Eat lunch", "completed":false},
+        {"name": "Clean up lunch", "completed":false},
+        {"name": "Do homework", "completed":false},
+        {"name": "Talents", "completed":false},
+        {"name": "Sweep kitchen and living room", "completed":false}
+      ],
+      "evening": [
+        {"name": "Help make dinner", "completed":false},
+        {"name": "Eat dinner", "completed":false},
+        {"name": "Clean up dinner", "completed":false},
+        {"name": "Sweep kitchen", "completed":false},
+        {"name": "Have family time", "completed":false},
+        {"name": "Bath", "completed":false},
+        {"name": "Wear Pajamas", "completed":false},
+        {"name": "Take Vitamins", "completed":false},
+        {"name": "Prayers", "completed":false},
+        {"name": "Say goodnight", "completed":false} 
+      ]
+    }
+  },
+
+  {
+    "user": "Ruby",
+    "name": "Ruby",
+    "tasks": {
+     "morning": [
+        {"name": "Say your prayers", "completed":false},
+        {"name": "Say good morning", "completed": false},
+        { "name": "Brush teeth", "completed": false },
+        { "name": "Stretch", "completed": false },
+        {"name": "Make the bed", "completed": false},
+        {"name": "Tidy bedroom", "completed":false},
+        {"name": "Bath", "completed": false},
+        {"name": "Dress up", "completed":false},
+        {"name": "Brush hair", "completed":false},
+        {"name": "Eat breakfast", "completed":false},
+        {"name": "Clean up breakfast", "completed":false},
+        {"name": "Homework check", "completed":false},
+        {"name": "Say goodbye to Mom and Dad", "completed":false}
+      ],
+      "afternoon": [
+        {"name": "Say good afternoon", "completed":false},
+        {"name": "Dress into home clothes", "completed":false},
+        {"name": "Eat lunch", "completed":false},
+        {"name": "Clean up lunch", "completed":false},
+        {"name": "Do homework", "completed":false},
+        {"name": "Talents", "completed":false},
+        {"name": "Do dishes", "completed":false}
+      ],
+      "evening": [
+        {"name": "Help make dinner", "completed":false},
+        {"name": "Eat dinner", "completed":false},
+        {"name": "Clean up dinner", "completed":false},
+        {"name": "Sweep kitchen", "completed":false},
+        {"name": "Have family time", "completed":false},
+        {"name": "Bath", "completed":false},
+        {"name": "Wear Pajamas", "completed":false},
+        {"name": "Take Vitamins", "completed":false},
+        {"name": "Prayers", "completed":false},
+        {"name": "Say goodnight", "completed":false} 
+      ]
+    }
+  },
+  {
+    "user": "Jackson",
+    "name": "Jackson",
+    "tasks": {
+      "morning": [
+        {"name": "Say your prayers", "completed":false},
+        {"name": "Say good morning", "completed": false},
+        { "name": "Brush teeth", "completed": false },
+        { "name": "Stretch", "completed": false },
+        {"name": "Make the bed", "completed": false},
+        {"name": "Tidy bedroom", "completed":false},
+        {"name": "Bath", "completed": false},
+        {"name": "Dress up", "completed":false},
+        {"name": "Brush hair", "completed":false},
+        {"name": "Eat breakfast", "completed":false},
+        {"name": "Clean up breakfast", "completed":false},
+        {"name": "Homework check", "completed":false},
+        {"name": "Say goodbye to Mom and Dad", "completed":false}
+      ],
+      "afternoon": [
+        {"name": "Say good afternoon", "completed":false},
+        {"name": "Dress into home clothes", "completed":false},
+        {"name": "Eat lunch", "completed":false},
+        {"name": "Clean up lunch", "completed":false},
+        {"name": "Do homework", "completed":false},
+        {"name": "Talents", "completed":false},
+        {"name": "Wipe down all Counters", "completed":false}
+      ],
+      "evening": [
+        {"name": "Help make dinner", "completed":false},
+        {"name": "Eat dinner", "completed":false},
+        {"name": "Clean up dinner", "completed":false},
+        {"name": "Sweep kitchen", "completed":false},
+        {"name": "Have family time", "completed":false},
+        {"name": "Bath", "completed":false},
+        {"name": "Wear Pajamas", "completed":false},
+        {"name": "Take Vitamins", "completed":false},
+        {"name": "Prayers", "completed":false},
+        {"name": "Say goodnight", "completed":false} 
+      ]
+    }
+  },
+  {
+    "user": "Skyler",
+    "name": "Skyler",
+    "tasks": {
+      "morning": [
+        {"name": "Say your prayers", "completed":false},
+        {"name": "Say good morning", "completed": false},
+        { "name": "Brush teeth", "completed": false },
+        { "name": "Stretch", "completed": false },
+        {"name": "Make the bed", "completed": false},
+        {"name": "Tidy bedroom", "completed":false},
+        {"name": "Bath", "completed": false},
+        {"name": "Dress up", "completed":false},
+        {"name": "Brush hair", "completed":false},
+        {"name": "Eat breakfast", "completed":false},
+        {"name": "Clean up breakfast", "completed":false},
+        {"name": "Homework check", "completed":false},
+        {"name": "Say goodbye to Mom and Dad", "completed":false}
+      ],
+      "afternoon": [
+        {"name": "Say good afternoon", "completed":false},
+        {"name": "Dress into home clothes", "completed":false},
+        {"name": "Eat lunch", "completed":false},
+        {"name": "Clean up lunch", "completed":false},
+        {"name": "Do homework", "completed":false},
+        {"name": "Talents", "completed":false},
+        {"name": "Bathrooms and Hallways", "completed":false}
+      ],
+      "evening": [
+        {"name": "Help make dinner", "completed":false},
+        {"name": "Eat dinner", "completed":false},
+        {"name": "Clean up dinner", "completed":false},
+        {"name": "Sweep kitchen", "completed":false},
+        {"name": "Have family time", "completed":false},
+        {"name": "Bath", "completed":false},
+        {"name": "Wear Pajamas", "completed":false},
+        {"name": "Take Vitamins", "completed":false},
+        {"name": "Prayers", "completed":false},
+        {"name": "Say goodnight", "completed":false} 
+      ]
+    }
+  }
+]
